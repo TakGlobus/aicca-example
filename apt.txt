@@ -3,3 +3,4 @@ proj-data
 proj-bin  
 libgeos-dev 3.7.2
 python3-dev
+nodejs
