@@ -1,6 +1,2 @@
 #!/bin/bash
 set -ex
-
-conda env create -f=binder.yml
-wait 
-conda activate binder
